@@ -93,5 +93,5 @@ Pexels API підтримує пагінацію, за замовчування�
 тоді, коли є якісь завантажені зображення. Якщо масив зображень порожній, кнопка
 не рендериться.
 
-https://www.figma.com/file/JB3QBTgXBIHU24nMOtmVmK/Book?type=design&node-id=0-1&t=awH9d8fcXTWRUx0n-0
-https://docs.google.com/spreadsheets/d/1p2P89GVo0HYGW2h2dXxrxxjMbpAB5T8RG-wy4oaEkNw/edit#gid=0
+<!-- https://www.figma.com/file/JB3QBTgXBIHU24nMOtmVmK/Book?type=design&node-id=0-1&t=awH9d8fcXTWRUx0n-0
+https://docs.google.com/spreadsheets/d/1p2P89GVo0HYGW2h2dXxrxxjMbpAB5T8RG-wy4oaEkNw/edit#gid=0 -->
